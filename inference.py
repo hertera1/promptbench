@@ -2,7 +2,6 @@
 # Licensed under the MIT License.
 
 import openai
-import asyncio
 from config import OPENAI_CONFIGS, LABEL_SET, LABEL_TO_ID
 from tqdm import tqdm
 
